@@ -1,0 +1,3 @@
+https://github.com/yuce/hazelcast-python-client/archive/dbapi-support.zip#hazelcast-python-client==5.1
+psutil==5.9.3
+pandas==1.5.2
